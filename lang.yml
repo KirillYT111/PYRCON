@@ -1,0 +1,12 @@
+lang : "Ru - Russian Federation"
+
+connecting : "Подключение к серверу /servername/ "
+
+disconnect0 : "Сеанс кикнут по причите disconnect."
+disconnect1 : "Клиент pyrcon подключился к серверу"
+
+ckrashprotect : "Pyrcon client has enabled crash protection "
+
+notavalibecmd : "У вас нет прав на выполнение этой команды"
+
+connected : "Клиент pyrcon подключился к серверу"
