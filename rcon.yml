@@ -1,0 +1,16 @@
+# Версия конфинга 68.2
+"servername" : "ZhovWorld" #Название сервера
+"serverip" : "f4.russianodes.com" #Айпи адрес сервера
+"rconport" : 30315 #Порт rcon
+"rconpassword" : "Qq52312345" # rcon пароль
+#Разрешения
+"onliallowcmd" : "false" #Включить белый список команд (true - вкл | false - выкл)
+allowcmds: #Список разрешённых команд
+     - "" 
+"commandslimit" : 100 # Лимит команд за 1 сеанс
+# Уведомления в discord
+"discordnotify" : "true" # Включить уведомления на discord сервере (требуется плагин essentialsdiscord)
+"chenelname" : "chat" # Название канала которое вы написали в конфинге essentialsdiscord
+
+# При создании конфинга для локального сервера в serverip укажите localhost
+# Включив белый список команд укажите хотябы одну разрешённую команду
